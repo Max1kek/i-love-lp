@@ -1,0 +1,105 @@
+p img{
+
+border:5px solid darkorange ;
+border-radius: 100px;
+
+}
+
+p{
+    text-align: left;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+h2{
+    text-align: center;
+    color: black;
+}
+html{
+    background-color: white;
+}
+
+h3{
+color: black;
+}
+
+header img{
+    border: 5px solid darkorange;
+    border-radius: 100px;   
+}
+
+header{
+    text-align: right;
+}
+.text{
+    text-align: right;
+    color: black;
+}
+.text2{
+  text-align: left;  
+  color: black;
+  font-size: 20px;
+}
+ 
+.chokopai{
+    text-align: left;
+    margin-right: 83%;
+    display:block
+}
+
+.style{
+    float: center;
+}
+
+
+
+a{
+    font-size: 15px;
+}
+
+.lp:hover{
+   transform: translateX(1106px);
+   transition: 5s ease-out;
+}
+
+
+.lpf:hover{
+  transform: translateX(-750px);  
+  transition: 5s ease-out;
+}
+
+.lpf{
+    display: flex;
+    justify-content: end;
+}
+
+.text2:hover{
+      text-align: left;  
+  color: black;
+  font-size: 20px;
+  margin-right: 83%;
+  display: block;
+
+  
+}
+
+
+
+html{
+   background-image:linear-gradient(red,green);
+}
+
+
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    border: 5px solid yellow;
+
+}
+
+
